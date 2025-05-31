@@ -46,7 +46,7 @@ The solution consists of two main projects:
 
 2. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/BlazorSignalR101.git
+   git clone https://github.com/fkucukkara/blazorSignalR101.git
    cd BlazorSignalR101
    ```
 
