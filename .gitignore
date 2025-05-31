@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/BlazorSignalR101
+/BlazorSignalR101/bin/Debug/net9.0
+/BlazorSignalR101/obj
+/BlazorSignalR101.Client/bin/Debug/net9.0
+/BlazorSignalR101.Client/obj
